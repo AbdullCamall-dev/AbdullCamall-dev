@@ -1,56 +1,73 @@
-<h1 data-importer="text" align="center">Hey 👋, I'm Abdul</h1>
+<h1 align="center">Hey 👋, I'm Abdul</h1>
 
-###
+<p align="center">
+  <strong>Software Engineer | Full Stack Developer | Cybersecurity Enthusiast</strong>
+</p>
 
-<p data-importer="text" align="center">Software Engineer | Full Stack Developer | Cybersecurity Enthusiast</p>
+---
 
-###
+### 🛠️ Tech Stack
 
-<div data-importer="techs" align="left">
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML5" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="Tailwind CSS" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img src="https://skillicons.dev/icons?i=javascript" height="40" alt="JavaScript" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img src="https://skillicons.dev/icons?i=typescript" height="40" alt="TypeScript" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="React" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="Next.js" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="nodejs logo"  />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="Node.js" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=django" height="40" alt="django logo"  />
+  <img src="https://skillicons.dev/icons?i=django" height="40" alt="Django" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=prisma" height="40" alt="prisma logo"  />
+  <img src="https://skillicons.dev/icons?i=prisma" height="40" alt="Prisma" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="40" alt="mongodb logo"  />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="MongoDB" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img src="https://skillicons.dev/icons?i=postgresql" height="40" alt="PostgreSQL" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo"  />
+  <img src="https://skillicons.dev/icons?i=redis" height="40" alt="Redis" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
+  <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="Vercel" />
 </div>
 
-###
+---
 
-<div data-importer="stats" align="center">
-  <img src="https://streak-stats.demolab.com?user=AbdullCamall-dev&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://raw.githubusercontent.com/AbdullCamall-dev/AbdullCamall-dev/trophy-output/trophy.svg?theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+### 📊 GitHub Stats
+
+<div align="center">
+
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=AbdullCamall-dev&show_icons=true&theme=dracula&hide_border=false" alt="Abdul's GitHub Stats" />
+
+  <img height="180" src="https://streak-stats.demolab.com/?user=AbdullCamall-dev&theme=dracula&hide_border=false" alt="Abdul's GitHub Streak" />
+
 </div>
 
-###
+---
 
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AbdullCamall-dev/AbdullCamall-dev/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AbdullCamall-dev/AbdullCamall-dev/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AbdullCamall-dev/AbdullCamall-dev/pacman-output/pacman-contribution-graph.svg?game=pacman">
-</picture>
+### 🏆 GitHub Trophies
 
-###
+<div align="center">
+
+  <img src="https://github-profile-trophy.vercel.app/?username=AbdullCamall-dev&theme=dracula&no-frame=false&no-bg=false&margin-w=8&row=1" alt="GitHub Trophies" />
+
+</div>
+
+---
+
+### 🐍 Contribution Graph
+
+<div align="center">
+
+  <img src="https://raw.githubusercontent.com/AbdullCamall-dev/AbdullCamall-dev/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+
+</div>
