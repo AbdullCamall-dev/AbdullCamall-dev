@@ -169,6 +169,28 @@ Contributing to an offline-first digital health platform connecting mobile appli
   <img width="65%" src="https://streak-stats.demolab.com/?user=AbdullCamall-dev&theme=tokyonight&hide_border=true" />
 </p>
 
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/AbdullCamall-dev/AbdullCamall-dev/output/github-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/AbdullCamall-dev/AbdullCamall-dev/output/github-snake.svg"
+    />
+    <img
+      alt="GitHub Contribution Snake Animation"
+      src="https://raw.githubusercontent.com/AbdullCamall-dev/AbdullCamall-dev/output/github-snake.svg"
+      width="100%"
+    />
+  </picture>
+</p>
+
 ## 🤝 Let's Connect
 
 <p align="center">
