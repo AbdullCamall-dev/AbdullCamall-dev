@@ -19,25 +19,28 @@
 
 ## 👨‍💻 About Me
 
-```python
-class Abdul:
-    def __init__(self):
-        self.role = "Full Stack Developer"
-        self.focus = [
-            "Backend Engineering",
-            "Software Architecture",
-            "Cybersecurity",
-            "Infrastructure"
-        ]
-        self.languages = ["Python", "JavaScript", "TypeScript"]
-        self.currently_learning = [
-            "Advanced Backend Systems",
-            "Network Security",
-            "Infrastructure & DevOps"
-        ]
+<p>
+  I'm <strong>Abdul Camal</strong>, a Full Stack Developer passionate about
+  building scalable applications, designing backend systems, and exploring
+  cybersecurity.
+</p>
 
-    def motto(self):
-        return "Build. Understand. Secure."
+<p>
+  I enjoy working across the software development lifecycle — from frontend
+  experiences and mobile applications to backend architecture, databases,
+  infrastructure, and application security.
+</p>
+
+- ⚙️ Focused on **Backend Engineering & Software Architecture**
+- 🔐 Exploring **Cybersecurity & Web Penetration Testing**
+- 🌐 Interested in **Networking, Infrastructure & DevOps**
+- 🚀 Building solutions that combine software, technology and real-world impact
+
+<p>
+  <img src="https://img.shields.io/badge/Code-Passion-38BDF8?style=flat-square" />
+  <img src="https://img.shields.io/badge/Architecture-Mindset-8B5CF6?style=flat-square" />
+  <img src="https://img.shields.io/badge/Security-First-10B981?style=flat-square" />
+</p>
 ```
 
 I'm a software developer passionate about building reliable applications and understanding the systems behind them.
