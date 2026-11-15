@@ -169,29 +169,6 @@ Contributing to an offline-first digital health platform connecting mobile appli
   <img width="65%" src="https://streak-stats.demolab.com/?user=AbdullCamall-dev&theme=tokyonight&hide_border=true" />
 </p>
 
----
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=AbdullCamall-dev&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
-</p>
-
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AbdullCamall-dev&theme=tokyo-night&hide_border=true&area=true" />
-</p>
-
-<!-- Contribution Snake -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AbdullCamall-dev/AbdullCamall-dev/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake Animation" />
-</p>
-
----
-
 ## 🤝 Let's Connect
 
 <p align="center">
